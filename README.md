@@ -1,5 +1,5 @@
 # Nethertale Game
-This is a Python text adventure game developed by Thomas Vaughan
+This is a Python text adventure game developed by me
 
 Play by typing commands into the Python terminal. E.g. 'walk down path' or 'talk to zackery'
 
